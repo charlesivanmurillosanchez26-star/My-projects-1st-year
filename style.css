@@ -292,3 +292,9 @@ html {
     font-size: 0.92rem;
   }
 }
+
+@media (max-width: 600px) {
+  body {
+    background-color: red !important;
+  }
+}
