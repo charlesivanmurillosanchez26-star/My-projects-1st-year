@@ -8,7 +8,8 @@ body {
 
   background:
     linear-gradient(rgba(5, 8, 13, 0.48), rgba(5, 8, 13, 0.68)),
-    url("IMAGES/Moon\ view\ Cyberpunk\ Edgerunners.jpg") center center / cover no-repeat fixed;
+    url("images/Moon%20view%20Cyberpunk%20Edgerunners.jpg") center center / cover no-repeat fixed;
+  backgound-attachment: scroll;
 }
 
 
